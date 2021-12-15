@@ -3,14 +3,4 @@
 ### [Example Website](https://chat-app-jsmastery.netlify.app)
 
 
-## Introduction
-
-This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
-
-React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
-
-Its a good example of learning react and creating something production ready!
-
-## Want to build this too?
-
-Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
+## For run this code, clone in your file and in terminal write "npm install @ant-design/icons axios react-chat-engine"
